@@ -3,3 +3,7 @@
 ###### This is an `<h6>` , which is the smallest
 
 ![这是一张奶龙图片](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+var myVar = "Hello World!"
+```
